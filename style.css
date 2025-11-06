@@ -184,8 +184,42 @@ footer{
     .nav-mobile.show{
         display: flex;
     }
-}
+    .grid{
+        max-width: 20rem ;
+    }
+    .form input{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .form textarea{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .form button{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .service{
+        font-size: 1rem;
+    }
+    .sev{
+        font-size: 0.9rem;
+    }
+    .about{
+        font-size: 1rem;
+    }
+    .aboutpara{
+        font-size: 0.9rem;
+    }   
+        .home{
+        margin: 2rem 1rem 20rem 1rem ;
+    } 
+    .Para{
+        margin: 2rem 1rem 20rem 1rem ;
+    }
+    
 
+}
 
 @media (max-width:480px){
     .nav-bar{
@@ -200,5 +234,40 @@ footer{
     .nav-mobile.show{
         display: flex;
     }
+       .grid{
+        max-width: 20rem ;
+    }
+    .form input{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .form textarea{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .form button{
+        font-size: 1rem;
+        margin: 1rem;
+    }
+    .service{
+        font-size: 1rem;
+    }
+    .sev{
+        font-size: 0.9rem;
+    }
+    .about{
+        font-size: 1rem;
+    }
+    .aboutpara{
+        font-size: 0.9rem;
+    }  
+    .home{
+        margin: 2rem 1rem 20rem 1rem ;
+    } 
+    .Para{
+        margin: 2rem 1rem 20rem 1rem ;
+    }
+    
 }
+
 
